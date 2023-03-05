@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Maruf",
+        "Roll":125354,
+        "Reg":1500928181,
+        "Department":"CSE",
+        "Session":"2018-19",
+        "Semester": "8th"
+    },
+    {
+        "name":"Sadik",
+        "Roll":125219,
+        "Reg":1500928181,
+        "Department":"CSE",
+        "Session":"2018-19",
+        "Semester": "8th"
+    },
+    {
+        "name":"Alamin",
+        "Roll":125278,
+        "Reg":1500928181,
+        "Department":"CSE",
+        "Session":"2018-19",
+        "Semester": "8th"
+    }
+]
